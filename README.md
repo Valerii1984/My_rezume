@@ -4,7 +4,7 @@
 Name: Valerii Sidorchuk
 Contact Information: mingaev.1984@gmail.com
 
-![Photo]([https://github.com/Valerii1984/rezume/blob/master/photo_2023.jpg](https://scontent.fhmj1-1.fna.fbcdn.net/v/t39.30808-6/342192960_163685153298877_4855641385097158216_n.jpg?stp=dst-jpg_p526x296&_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=L01OUbuhHCQAX-5XZaU&_nc_ht=scontent.fhmj1-1.fna&oh=00_AfDZFLKV_-0s_Wx-K4bIojO0XPABBZIjr5CkeOxefYj8Og&oe=64738574))
+![Photo](https://github.com/Valerii1984/rezume/blob/master/photo_2023.jpg)
 
 Work Experience
 Personal Projects (2021-2022)
