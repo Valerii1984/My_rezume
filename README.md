@@ -4,7 +4,7 @@
 Name: Valerii Sidorchuk
 Contact Information: mingaev.1984@gmail.com
 
-![Photo](https://github.com/Valerii1984/rezume/blob/master/photo_2023.jpg)
+![Alt текст](my_foto.jpg)
 
 Work Experience
 Personal Projects (2021-2022)
